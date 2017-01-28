@@ -4,6 +4,7 @@ extern crate url;
 use std::str;
 
 use super::headers::Headers;
+use super::method;
 
 #[derive(Debug)]
 pub struct Request {

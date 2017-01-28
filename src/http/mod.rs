@@ -5,3 +5,5 @@ pub mod reply;
 
 pub mod client;
 pub mod server;
+
+pub mod method;
